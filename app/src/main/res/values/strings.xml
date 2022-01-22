@@ -16,7 +16,7 @@
     <string name="button_dot">.</string>
     <string name="button_division">/</string>
     <string name="equals">=</string>
-    <string name="TextView_test">123456</string>
-    <string name="remove_sign">удалить знак</string>
-    <string name="clear">очистить поле</string>
+    <string name="TextView_test">Введите значения</string>
+    <string name="remove_sign">удалить знак (test)</string>
+    <string name="clear">сброс значений</string>
 </resources>
