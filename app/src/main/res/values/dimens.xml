@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="buttons_test">10sp</dimen>
+    <dimen name="buttons_margin">2dp</dimen>
+    <dimen name="padding_for_base">20dp</dimen>
+    <dimen name="textView_height">200dp</dimen>
+</resources>
